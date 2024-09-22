@@ -1,6 +1,6 @@
 ![Banner](./images/banner.png)
 
-# PROYECTO 7: Aplicación Fullstack de Comercio Electrónico
+# PROYECTO 7: Aplicación Fullstack de Comercio Electrónico (CRUD Productos)
 
 ## **ÍNDICE**
 
@@ -91,28 +91,9 @@ A continuación, se presenta una lista de requisitos mínimos y entregables que 
 
 ![Image](./images/env.png) 
 
-- [ ] Rutas de Productos
-
-![Image](./images/productRouter.png) 
-
-- [ ] Rutas de Usuarios
-
-![Image](./images/userRouter.png) 
-
-- [ ] Schema de Productos
-
-![Image](./images/productSchema.png) 
-
-- [ ] Schemna de Usuarios
-
-![Image](./images/userSchema.png)
-
 - [ ] Ejecución
 
-![Image](./images/ejecucionM7_API.png)
+![Image](./images/crudProductos.png)
 
 - [ ] Render
 
-`https://m7-api-2l0h.onrender.com`
-
-![Image](./images/render.png)
