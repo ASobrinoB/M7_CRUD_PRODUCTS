@@ -1,6 +1,7 @@
 ![Banner](./images/banner.png)
 
-# PROYECTO 7: Aplicación Fullstack de Comercio Electrónico (CRUD Productos)
+# PROYECTO 7: Aplicación Fullstack de Comercio Electrónico
+# (CRUD Products)
 
 ## **ÍNDICE**
 
