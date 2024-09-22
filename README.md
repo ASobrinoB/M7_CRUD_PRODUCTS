@@ -95,5 +95,6 @@ A continuación, se presenta una lista de requisitos mínimos y entregables que 
 
 ![Image](./images/crudProductos.png)
 
-- [ ] Render
+- [ ] Netlify
 
+`https://vocal-pika-119450.netlify.app`
