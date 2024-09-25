@@ -65,6 +65,9 @@ export const ProductList = () => {
 
   return (
     <div>
+      <h3>
+        Crear un producto
+      </h3>
       <Box
         component="form"
         onSubmit={sendDataToAddProduct}
@@ -120,7 +123,6 @@ export const ProductList = () => {
         />
 
         <TextField
-          required
           id="stock"
           name="stock"
           label="Stock ON-Line"
@@ -138,7 +140,7 @@ export const ProductList = () => {
         />
 
         <Button type="submit">
-          {editMode ? "Actualizar" : "Crear"}
+          {editMode ? "Actualizar" : "Guardar"}
         </Button>
 
         {error && <p style={{ color: 'red' }}>{error}</p>}
