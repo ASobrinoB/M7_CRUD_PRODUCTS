@@ -2,6 +2,7 @@
 
 # PROYECTO 7: Aplicación Fullstack de Comercio Electrónico
 # (CRUD Products)
+# Mantención de productos
 
 ## **ÍNDICE**
 
@@ -90,7 +91,7 @@ A continuación, se presenta una lista de requisitos mínimos y entregables que 
 
 - [ ] Variables de entorno
 
-![Image](./images/env.png) 
+`VITE_BACKEND_URL=http://localhost:3001/api`
 
 - [ ] Ejecución
 
@@ -99,3 +100,7 @@ A continuación, se presenta una lista de requisitos mínimos y entregables que 
 - [ ] Netlify
 
 `https://vocal-pika-119450.netlify.app`
+
+- [ ] Render API
+
+`https://m7-api-2l0h.onrender.com`
